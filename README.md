@@ -1,2 +1,0 @@
-# paginauecr
-UECR
